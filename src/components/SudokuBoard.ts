@@ -1,7 +1,7 @@
-interface SudoGrid {
-  grid: number[][];
-}
+// interface SudoGrid {
+//   grid: number[][];
+// }
 
-const grid = Array(9).fill(1);
+// const grid = Array(9).fill(1);
 
-export { grid };
+// export { grid };
